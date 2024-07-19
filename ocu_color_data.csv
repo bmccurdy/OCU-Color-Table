@@ -1,0 +1,443 @@
+selector,color,darkmode,stylesheet,line
+body,#212529,#C5C5C5,bootstrap.min.css,5
+a,#007BFF,#1C374D,bootstrap.min.css,23
+a:hover,#0056B3,#8EB3ED,bootstrap.min.css,24
+caption,#6C757D,#3D4348,bootstrap.min.css,34
+.blockquote-footer,#6C757D,#3D4348,bootstrap.min.css,78
+.figure-caption,#6C757D,#3D4348,bootstrap.min.css,84
+code,#E83E8C,#672f41,bootstrap.min.css,86
+kbd,#FFFFFF,#1c1c1c,bootstrap.min.css,88
+pre,#212529,#C5C5C5,bootstrap.min.css,90
+.table .thead-dark th,#FFFFFF,#1c1c1c,bootstrap.min.css,185
+.table .thead-light th,#495057,#bcbfc2,bootstrap.min.css,186
+.table-dark,#FFFFFF,#1c1c1c,bootstrap.min.css,187
+.form-control,#495057,#bcbfc2,bootstrap.min.css,198
+.form-control:focus,#495057,#bcbfc2,bootstrap.min.css,199
+.form-control::-webkit-input-placeholder,#6C757D,#3D4348,bootstrap.min.css,200
+.form-control::placeholder,#6C757D,#3D4348,bootstrap.min.css,201
+.form-check-input:disabled ~ .form-check-label,#6C757D,#3D4348,bootstrap.min.css,220
+.valid-feedback,#28A745,#3EA07A,bootstrap.min.css,224
+.valid-tooltip,#FFFFFF,#1c1c1c,bootstrap.min.css,225
+".form-check-input.is-valid ~ .form-check-label, .was-validated .form-check-input:valid ~ .form-check-label",#28A745,#3EA07A,bootstrap.min.css,229
+".custom-control-input.is-valid ~ .custom-control-label, .was-validated .custom-control-input:valid ~ .custom-control-label",#28A745,#3EA07A,bootstrap.min.css,231
+.invalid-feedback,#DC3545,#7f1d27,bootstrap.min.css,240
+.invalid-tooltip,#FFFFFF,#1c1c1c,bootstrap.min.css,241
+".form-check-input.is-invalid ~ .form-check-label, .was-validated .form-check-input:invalid ~ .form-check-label",#DC3545,#7f1d27,bootstrap.min.css,245
+".custom-control-input.is-invalid ~ .custom-control-label, .was-validated .custom-control-input:invalid ~ .custom-control-label",#DC3545,#7f1d27,bootstrap.min.css,247
+.btn-primary,#FFFFFF,#1c1c1c,bootstrap.min.css,266
+.btn-primary:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,267
+".btn-primary.disabled, .btn-primary:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,269
+".btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,270
+.btn-secondary,#FFFFFF,#1c1c1c,bootstrap.min.css,272
+.btn-secondary:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,273
+".btn-secondary.disabled, .btn-secondary:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,275
+".btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show > .btn-secondary.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,276
+.btn-success,#FFFFFF,#1c1c1c,bootstrap.min.css,278
+.btn-success:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,279
+".btn-success.disabled, .btn-success:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,281
+".btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show > .btn-success.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,282
+.btn-info,#FFFFFF,#1c1c1c,bootstrap.min.css,284
+.btn-info:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,285
+".btn-info.disabled, .btn-info:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,287
+".btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show > .btn-info.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,288
+.btn-warning,#212529,#C5C5C5,bootstrap.min.css,290
+.btn-warning:hover,#212529,#C5C5C5,bootstrap.min.css,291
+".btn-warning.disabled, .btn-warning:disabled",#212529,#C5C5C5,bootstrap.min.css,293
+".btn-warning:not(:disabled):not(.disabled).active, .btn-warning:not(:disabled):not(.disabled):active, .show > .btn-warning.dropdown-toggle",#212529,#C5C5C5,bootstrap.min.css,294
+.btn-danger,#FFFFFF,#1c1c1c,bootstrap.min.css,296
+.btn-danger:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,297
+".btn-danger.disabled, .btn-danger:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,299
+".btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show > .btn-danger.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,300
+.btn-light,#212529,#C5C5C5,bootstrap.min.css,302
+.btn-light:hover,#212529,#C5C5C5,bootstrap.min.css,303
+".btn-light.disabled, .btn-light:disabled",#212529,#C5C5C5,bootstrap.min.css,305
+".btn-light:not(:disabled):not(.disabled).active, .btn-light:not(:disabled):not(.disabled):active, .show > .btn-light.dropdown-toggle",#212529,#C5C5C5,bootstrap.min.css,306
+.btn-dark,#FFFFFF,#1c1c1c,bootstrap.min.css,308
+.btn-dark:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,309
+".btn-dark.disabled, .btn-dark:disabled",#FFFFFF,#1c1c1c,bootstrap.min.css,311
+".btn-dark:not(:disabled):not(.disabled).active, .btn-dark:not(:disabled):not(.disabled):active, .show > .btn-dark.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,312
+.btn-outline-primary,#007BFF,#1C374D,bootstrap.min.css,314
+.btn-outline-primary:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,315
+".btn-outline-primary.disabled, .btn-outline-primary:disabled",#007BFF,#1C374D,bootstrap.min.css,317
+".btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,318
+.btn-outline-secondary,#6C757D,#3D4348,bootstrap.min.css,320
+.btn-outline-secondary:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,321
+".btn-outline-secondary.disabled, .btn-outline-secondary:disabled",#6C757D,#3D4348,bootstrap.min.css,323
+".btn-outline-secondary:not(:disabled):not(.disabled).active, .btn-outline-secondary:not(:disabled):not(.disabled):active, .show > .btn-outline-secondary.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,324
+.btn-outline-success,#28A745,#3EA07A,bootstrap.min.css,326
+.btn-outline-success:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,327
+".btn-outline-success.disabled, .btn-outline-success:disabled",#28A745,#3EA07A,bootstrap.min.css,329
+".btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show > .btn-outline-success.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,330
+.btn-outline-info,#17A2B8,#1B5F6F,bootstrap.min.css,332
+.btn-outline-info:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,333
+".btn-outline-info.disabled, .btn-outline-info:disabled",#17A2B8,#1B5F6F,bootstrap.min.css,335
+".btn-outline-info:not(:disabled):not(.disabled).active, .btn-outline-info:not(:disabled):not(.disabled):active, .show > .btn-outline-info.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,336
+.btn-outline-warning,#FFC107,#806600,bootstrap.min.css,338
+.btn-outline-warning:hover,#212529,#C5C5C5,bootstrap.min.css,339
+".btn-outline-warning.disabled, .btn-outline-warning:disabled",#FFC107,#806600,bootstrap.min.css,341
+".btn-outline-warning:not(:disabled):not(.disabled).active, .btn-outline-warning:not(:disabled):not(.disabled):active, .show > .btn-outline-warning.dropdown-toggle",#212529,#C5C5C5,bootstrap.min.css,342
+.btn-outline-danger,#DC3545,#7f1d27,bootstrap.min.css,344
+.btn-outline-danger:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,345
+".btn-outline-danger.disabled, .btn-outline-danger:disabled",#DC3545,#7f1d27,bootstrap.min.css,347
+".btn-outline-danger:not(:disabled):not(.disabled).active, .btn-outline-danger:not(:disabled):not(.disabled):active, .show > .btn-outline-danger.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,348
+.btn-outline-light,#F8F9FA,#212529,bootstrap.min.css,350
+.btn-outline-light:hover,#212529,#C5C5C5,bootstrap.min.css,351
+".btn-outline-light.disabled, .btn-outline-light:disabled",#F8F9FA,#212529,bootstrap.min.css,353
+".btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active, .show > .btn-outline-light.dropdown-toggle",#212529,#C5C5C5,bootstrap.min.css,354
+.btn-outline-dark,#343A40,#c1c2c5,bootstrap.min.css,356
+.btn-outline-dark:hover,#FFFFFF,#1c1c1c,bootstrap.min.css,357
+".btn-outline-dark.disabled, .btn-outline-dark:disabled",#343A40,#c1c2c5,bootstrap.min.css,359
+".btn-outline-dark:not(:disabled):not(.disabled).active, .btn-outline-dark:not(:disabled):not(.disabled):active, .show > .btn-outline-dark.dropdown-toggle",#FFFFFF,#1c1c1c,bootstrap.min.css,360
+.btn-link,#007BFF,#1C374D,bootstrap.min.css,362
+.btn-link:hover,#0056B3,#8EB3ED,bootstrap.min.css,363
+".btn-link.disabled, .btn-link:disabled",#6C757D,#3D4348,bootstrap.min.css,365
+.dropdown-menu,#212529,#C5C5C5,bootstrap.min.css,381
+.dropdown-item,#212529,#C5C5C5,bootstrap.min.css,396
+".dropdown-item:focus, .dropdown-item:hover",#16181B,#101214,bootstrap.min.css,397
+".dropdown-item.active, .dropdown-item:active",#FFFFFF,#1c1c1c,bootstrap.min.css,399
+".dropdown-item.disabled, .dropdown-item:disabled",#6C757D,#3D4348,bootstrap.min.css,401
+.dropdown-header,#6C757D,#3D4348,bootstrap.min.css,403
+.input-group-text,#495057,#bcbfc2,bootstrap.min.css,439
+.custom-control-input:checked ~ .custom-control-label::before,#FFFFFF,#1c1c1c,bootstrap.min.css,446
+.custom-control-input:active ~ .custom-control-label::before,#FFFFFF,#1c1c1c,bootstrap.min.css,448
+.custom-control-input:disabled ~ .custom-control-label,#6C757D,#3D4348,bootstrap.min.css,449
+.custom-select,#495057,#bcbfc2,bootstrap.min.css,465
+.custom-select:disabled,#6C757D,#3D4348,bootstrap.min.css,468
+.custom-file-label,#495057,#bcbfc2,bootstrap.min.css,476
+.custom-file-label::after,#495057,#bcbfc2,bootstrap.min.css,477
+.nav-link.disabled,#6C757D,#3D4348,bootstrap.min.css,481
+.nav-tabs .nav-link.disabled,#6C757D,#3D4348,bootstrap.min.css,486
+".nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active",#495057,#bcbfc2,bootstrap.min.css,487
+".nav-pills .nav-link.active, .nav-pills .show > .nav-link",#FFFFFF,#1c1c1c,bootstrap.min.css,490
+.navbar-brand,#E1E6E8,#1C2022,bootstrap.min.css,497
+".navbar-brand:focus, .navbar-brand:hover",#E1E6E8,#1C2022,bootstrap.min.css,498
+.navbar-light .navbar-brand,#000000E6,#2E2D2D,bootstrap.min.css,526
+".navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover",#000000E6,#2E2D2D,bootstrap.min.css,527
+.navbar-light .navbar-nav .nav-link,#00000080,#C8C8C8,bootstrap.min.css,528
+".navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover",#000000B3,#B1B1B3,bootstrap.min.css,529
+.navbar-light .navbar-nav .nav-link.disabled,#0000004D,#260000,bootstrap.min.css,530
+".navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link",#000000E6,#2E2D2D,bootstrap.min.css,531
+.navbar-light .navbar-toggler,#00000080,#C8C8C8,bootstrap.min.css,532
+.navbar-light .navbar-text,#00000080,#C8C8C8,bootstrap.min.css,534
+.navbar-light .navbar-text a,#000000E6,#2E2D2D,bootstrap.min.css,535
+".navbar-light .navbar-text a:focus, .navbar-light .navbar-text a:hover",#000000E6,#2E2D2D,bootstrap.min.css,536
+.navbar-dark .navbar-brand,#FFFFFF,#1c1c1c,bootstrap.min.css,537
+".navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,538
+.navbar-dark .navbar-nav .nav-link,#FFFFFF80,#18191B80,bootstrap.min.css,539
+".navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover",#FFFFFFBF,#1E1E1E,bootstrap.min.css,540
+.navbar-dark .navbar-nav .nav-link.disabled,#FFFFFF40,#1E1E1E60,bootstrap.min.css,541
+".navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link",#FFFFFF,#1c1c1c,bootstrap.min.css,542
+.navbar-dark .navbar-toggler,#FFFFFF80,#18191B80,bootstrap.min.css,543
+.navbar-dark .navbar-text,#FFFFFF80,#18191B80,bootstrap.min.css,545
+.navbar-dark .navbar-text a,#FFFFFF,#1c1c1c,bootstrap.min.css,546
+".navbar-dark .navbar-text a:focus, .navbar-dark .navbar-text a:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,547
+.breadcrumb-item + .breadcrumb-item::before,#6C757D,#3D4348,bootstrap.min.css,578
+.breadcrumb-item.active,#6C757D,#3D4348,bootstrap.min.css,581
+.page-link,#007BFF,#1C374D,bootstrap.min.css,583
+.page-link:hover,#0056B3,#8EB3ED,bootstrap.min.css,584
+.page-item.active .page-link,#FFFFFF,#1c1c1c,bootstrap.min.css,589
+.page-item.disabled .page-link,#6C757D,#3D4348,bootstrap.min.css,590
+.badge-primary,#FFFFFF,#1c1c1c,bootstrap.min.css,601
+".badge-primary[href]:focus, .badge-primary[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,602
+.badge-secondary,#FFFFFF,#1c1c1c,bootstrap.min.css,603
+".badge-secondary[href]:focus, .badge-secondary[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,604
+.badge-success,#FFFFFF,#1c1c1c,bootstrap.min.css,605
+".badge-success[href]:focus, .badge-success[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,606
+.badge-info,#FFFFFF,#1c1c1c,bootstrap.min.css,607
+".badge-info[href]:focus, .badge-info[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,608
+.badge-warning,#212529,#C5C5C5,bootstrap.min.css,609
+".badge-warning[href]:focus, .badge-warning[href]:hover",#212529,#C5C5C5,bootstrap.min.css,610
+.badge-danger,#FFFFFF,#1c1c1c,bootstrap.min.css,611
+".badge-danger[href]:focus, .badge-danger[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,612
+.badge-light,#212529,#C5C5C5,bootstrap.min.css,613
+".badge-light[href]:focus, .badge-light[href]:hover",#212529,#C5C5C5,bootstrap.min.css,614
+.badge-dark,#FFFFFF,#1c1c1c,bootstrap.min.css,615
+".badge-dark[href]:focus, .badge-dark[href]:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,616
+.alert-primary,#004085,#2E5C92,bootstrap.min.css,625
+.alert-primary .alert-link,#002752,#4F8EBD,bootstrap.min.css,627
+.alert-secondary,#383D41,#B6B9BC,bootstrap.min.css,628
+.alert-secondary .alert-link,#202326,#161819,bootstrap.min.css,630
+.alert-success,#155724,#b3d5b8,bootstrap.min.css,631
+.alert-success .alert-link,#0B2E13,#465748,bootstrap.min.css,633
+.alert-info,#0C5460,#2A747A,bootstrap.min.css,634
+.alert-info .alert-link,#062C33,#99a8ad,bootstrap.min.css,636
+.alert-warning,#856404,#696350,bootstrap.min.css,637
+.alert-warning .alert-link,#533F03,#9a924b,bootstrap.min.css,639
+.alert-danger,#721C24,#300810,bootstrap.min.css,640
+.alert-danger .alert-link,#491217,#3b0c12,bootstrap.min.css,642
+.alert-light,#818182,#0D0D0D,bootstrap.min.css,643
+.alert-light .alert-link,#686868,#424242,bootstrap.min.css,645
+.alert-dark,#1B1E21,#B0B3B6,bootstrap.min.css,646
+.alert-dark .alert-link,#040505,#212121,bootstrap.min.css,648
+.progress-bar,#FFFFFF,#1c1c1c,bootstrap.min.css,652
+.list-group-item-action,#495057,#bcbfc2,bootstrap.min.css,658
+".list-group-item-action:focus, .list-group-item-action:hover",#495057,#bcbfc2,bootstrap.min.css,659
+.list-group-item-action:active,#212529,#C5C5C5,bootstrap.min.css,660
+".list-group-item.disabled, .list-group-item:disabled",#6C757D,#3D4348,bootstrap.min.css,665
+.list-group-item.active,#FFFFFF,#1c1c1c,bootstrap.min.css,666
+.list-group-item-primary,#004085,#2E5C92,bootstrap.min.css,670
+".list-group-item-primary.list-group-item-action:focus, .list-group-item-primary.list-group-item-action:hover",#004085,#2E5C92,bootstrap.min.css,671
+.list-group-item-primary.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,672
+.list-group-item-secondary,#383D41,#B6B9BC,bootstrap.min.css,673
+".list-group-item-secondary.list-group-item-action:focus, .list-group-item-secondary.list-group-item-action:hover",#383D41,#B6B9BC,bootstrap.min.css,674
+.list-group-item-secondary.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,675
+.list-group-item-success,#155724,#b3d5b8,bootstrap.min.css,676
+".list-group-item-success.list-group-item-action:focus, .list-group-item-success.list-group-item-action:hover",#155724,#b3d5b8,bootstrap.min.css,677
+.list-group-item-success.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,678
+.list-group-item-info,#0C5460,#2A747A,bootstrap.min.css,679
+".list-group-item-info.list-group-item-action:focus, .list-group-item-info.list-group-item-action:hover",#0C5460,#2A747A,bootstrap.min.css,680
+.list-group-item-info.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,681
+.list-group-item-warning,#856404,#696350,bootstrap.min.css,682
+".list-group-item-warning.list-group-item-action:focus, .list-group-item-warning.list-group-item-action:hover",#856404,#696350,bootstrap.min.css,683
+.list-group-item-warning.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,684
+.list-group-item-danger,#721C24,#300810,bootstrap.min.css,685
+".list-group-item-danger.list-group-item-action:focus, .list-group-item-danger.list-group-item-action:hover",#721C24,#300810,bootstrap.min.css,686
+.list-group-item-danger.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,687
+.list-group-item-light,#818182,#0D0D0D,bootstrap.min.css,688
+".list-group-item-light.list-group-item-action:focus, .list-group-item-light.list-group-item-action:hover",#818182,#0D0D0D,bootstrap.min.css,689
+.list-group-item-light.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,690
+.list-group-item-dark,#1B1E21,#B0B3B6,bootstrap.min.css,691
+".list-group-item-dark.list-group-item-action:focus, .list-group-item-dark.list-group-item-action:hover",#1B1E21,#B0B3B6,bootstrap.min.css,692
+.list-group-item-dark.list-group-item-action.active,#FFFFFF,#1c1c1c,bootstrap.min.css,693
+.close,#000000,#1E1E1E,bootstrap.min.css,694
+".close:focus, .close:hover",#000000,#1E1E1E,bootstrap.min.css,695
+.tooltip-inner,#FFFFFF,#1c1c1c,bootstrap.min.css,735
+.popover-body,#212529,#C5C5C5,bootstrap.min.css,762
+".carousel-control-next, .carousel-control-prev",#FFFFFF,#1c1c1c,bootstrap.min.css,774
+".carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover",#FFFFFF,#1c1c1c,bootstrap.min.css,775
+.carousel-caption,#FFFFFF,#1c1c1c,bootstrap.min.css,786
+.text-white,#FFFFFF,#1c1c1c,bootstrap.min.css,1005
+.text-primary,#007BFF,#1C374D,bootstrap.min.css,1006
+"a.text-primary:focus, a.text-primary:hover",#0062CC,#0073FF,bootstrap.min.css,1007
+.text-secondary,#6C757D,#3D4348,bootstrap.min.css,1008
+"a.text-secondary:focus, a.text-secondary:hover",#545B62,#939DA4,bootstrap.min.css,1009
+.text-success,#28A745,#3EA07A,bootstrap.min.css,1010
+"a.text-success:focus, a.text-success:hover",#1E7E34,#27641c,bootstrap.min.css,1011
+.text-info,#17A2B8,#1B5F6F,bootstrap.min.css,1012
+"a.text-info:focus, a.text-info:hover",#117A8B,#205C68,bootstrap.min.css,1013
+.text-warning,#FFC107,#806600,bootstrap.min.css,1014
+"a.text-warning:focus, a.text-warning:hover",#D39E00,#665200,bootstrap.min.css,1015
+.text-danger,#DC3545,#7f1d27,bootstrap.min.css,1016
+"a.text-danger:focus, a.text-danger:hover",#BD2130,#730506,bootstrap.min.css,1017
+.text-light,#F8F9FA,#212529,bootstrap.min.css,1018
+"a.text-light:focus, a.text-light:hover",#DAE0E5,#232830,bootstrap.min.css,1019
+.text-dark,#343A40,#c1c2c5,bootstrap.min.css,1020
+"a.text-dark:focus, a.text-dark:hover",#1D2124,#DFE0E1,bootstrap.min.css,1021
+.text-muted,#6C757D,#3D4348,bootstrap.min.css,1022
+.mdb-color-text,#45526E,#4E6380,mdb.min.css,15
+.red-text,#F44336,#B71C1C,mdb.min.css,26
+.pink-text,#E91E63,#960E40,mdb.min.css,41
+.purple-text,#9C27B0,#5D1A69,mdb.min.css,56
+.deep-purple-text,#673AB7,#3F51B5,mdb.min.css,71
+.indigo-text,#3F51B5,#272f62,mdb.min.css,86
+.blue-text,#2196F3,#0D47A1,mdb.min.css,101
+.cyan-text,#00BCD4,#008B96,mdb.min.css,130
+.teal-text,#009688,#126e54,mdb.min.css,145
+.green-text,#4CAF50,#2E7C31,mdb.min.css,160
+.light-green-text,#8BC34A,#5a7e31,mdb.min.css,175
+.lime-text,#CDDC39,#353F0D,mdb.min.css,190
+.yellow-text,#FFEB3B,#4d4c38,mdb.min.css,205
+.amber-text,#FFC107,#806600,mdb.min.css,220
+.orange-text,#FF9800,#BF5F00,mdb.min.css,235
+.deep-orange-text,#FF5722,#961B00,mdb.min.css,250
+.brown-text,#795548,#42312b,mdb.min.css,265
+.blue-grey-text,#607D8B,#212121,mdb.min.css,276
+.grey-text,#9E9E9E,#1B1B1B,mdb.min.css,287
+".black-text, .btn-link",#000000,#1E1E1E,mdb.min.css,296
+".btn, .white-text",#FFFFFF,#1c1c1c,mdb.min.css,298
+.light-blue-text,#82B1FF,#224B91,mdb.min.css,301
+.dark-grey-text,#4F4F4F,#282828,mdb.min.css,302
+a,#0275D8,#2C5D9C,mdb.min.css,420
+.bq-primary .bq-title,#4285F4,#2155c3,mdb.min.css,748
+.bq-warning .bq-title,#FFBB33,#7f6021,mdb.min.css,750
+.bq-danger .bq-title,#FF3547,#BD2036,mdb.min.css,752
+.bq-success .bq-title,#00C851,#3BA073,mdb.min.css,754
+.btn-primary,#FFFFFF,#1c1c1c,mdb.min.css,807
+.btn-outline-primary,#4285F4,#2155c3,mdb.min.css,813
+".btn-outline-primary.active, .btn-outline-primary:active, .btn-outline-primary:active:focus, .btn-outline-primary:focus, .btn-outline-primary:hover",#4285F4,#2155c3,mdb.min.css,814
+.btn-danger,#FFFFFF,#1c1c1c,mdb.min.css,816
+.btn-outline-danger,#FF3547,#BD2036,mdb.min.css,822
+".btn-outline-danger.active, .btn-outline-danger:active, .btn-outline-danger:active:focus, .btn-outline-danger:focus, .btn-outline-danger:hover",#FF3547,#BD2036,mdb.min.css,823
+.btn-warning,#FFFFFF,#1c1c1c,mdb.min.css,825
+.btn-outline-warning,#FF8800,#994d00,mdb.min.css,831
+".btn-outline-warning.active, .btn-outline-warning:active, .btn-outline-warning:active:focus, .btn-outline-warning:focus, .btn-outline-warning:hover",#FF8800,#994d00,mdb.min.css,832
+.btn-success,#FFFFFF,#1c1c1c,mdb.min.css,834
+.btn-outline-success,#00C851,#3BA073,mdb.min.css,840
+".btn-outline-success.active, .btn-outline-success:active, .btn-outline-success:active:focus, .btn-outline-success:focus, .btn-outline-success:hover",#00C851,#3BA073,mdb.min.css,841
+.btn-info,#FFFFFF,#1c1c1c,mdb.min.css,843
+.btn-outline-info,#33B5E5,#1d717b,mdb.min.css,849
+".btn-outline-info.active, .btn-outline-info:active, .btn-outline-info:active:focus, .btn-outline-info:focus, .btn-outline-info:hover",#33B5E5,#1d717b,mdb.min.css,850
+.btn-default,#FFFFFF,#1c1c1c,mdb.min.css,852
+.btn-outline-default,#2BBBAD,#1D5B57,mdb.min.css,858
+".btn-outline-default.active, .btn-outline-default:active, .btn-outline-default:active:focus, .btn-outline-default:focus, .btn-outline-default:hover",#2BBBAD,#1D5B57,mdb.min.css,859
+.btn-secondary,#FFFFFF,#1c1c1c,mdb.min.css,861
+.btn-outline-secondary,#AA66CC,#6c4086,mdb.min.css,867
+".btn-outline-secondary.active, .btn-outline-secondary:active, .btn-outline-secondary:active:focus, .btn-outline-secondary:focus, .btn-outline-secondary:hover",#AA66CC,#6c4086,mdb.min.css,868
+.btn-elegant,#FFFFFF,#1c1c1c,mdb.min.css,870
+.btn-outline-elegant,#2E2E2E,#0F0F0F,mdb.min.css,876
+".btn-outline-elegant.active, .btn-outline-elegant:active, .btn-outline-elegant:active:focus, .btn-outline-elegant:focus, .btn-outline-elegant:hover",#2E2E2E,#0F0F0F,mdb.min.css,877
+.btn-unique,#FFFFFF,#1c1c1c,mdb.min.css,879
+.btn-outline-unique,#880E4F,#301934,mdb.min.css,885
+".btn-outline-unique.active, .btn-outline-unique:active, .btn-outline-unique:active:focus, .btn-outline-unique:focus, .btn-outline-unique:hover",#880E4F,#301934,mdb.min.css,886
+.btn-dark-green,#FFFFFF,#1c1c1c,mdb.min.css,888
+.btn-outline-dark-green,#388E3C,#1b5e26,mdb.min.css,894
+".btn-outline-dark-green.active, .btn-outline-dark-green:active, .btn-outline-dark-green:active:focus, .btn-outline-dark-green:focus, .btn-outline-dark-green:hover",#388E3C,#1b5e26,mdb.min.css,895
+.btn-mdb-color,#FFFFFF,#1c1c1c,mdb.min.css,897
+.btn-outline-mdb-color,#59698D,#1f2233,mdb.min.css,903
+".btn-outline-mdb-color.active, .btn-outline-mdb-color:active, .btn-outline-mdb-color:active:focus, .btn-outline-mdb-color:focus, .btn-outline-mdb-color:hover",#59698D,#1f2233,mdb.min.css,904
+.btn-red,#FFFFFF,#1c1c1c,mdb.min.css,906
+.btn-outline-red,#D32F2F,#9b2222,mdb.min.css,912
+".btn-outline-red.active, .btn-outline-red:active, .btn-outline-red:active:focus, .btn-outline-red:focus, .btn-outline-red:hover",#D32F2F,#9b2222,mdb.min.css,913
+.btn-pink,#FFFFFF,#1c1c1c,mdb.min.css,915
+.btn-outline-pink,#EC407A,#B71C62,mdb.min.css,921
+".btn-outline-pink.active, .btn-outline-pink:active, .btn-outline-pink:active:focus, .btn-outline-pink:focus, .btn-outline-pink:hover",#EC407A,#B71C62,mdb.min.css,922
+.btn-purple,#FFFFFF,#1c1c1c,mdb.min.css,924
+.btn-outline-purple,#8E24AA,#6a1b80,mdb.min.css,930
+".btn-outline-purple.active, .btn-outline-purple:active, .btn-outline-purple:active:focus, .btn-outline-purple:focus, .btn-outline-purple:hover",#8E24AA,#6a1b80,mdb.min.css,931
+.btn-deep-purple,#FFFFFF,#1c1c1c,mdb.min.css,933
+.btn-outline-deep-purple,#512DA8,#6d53ee,mdb.min.css,939
+".btn-outline-deep-purple.active, .btn-outline-deep-purple:active, .btn-outline-deep-purple:active:focus, .btn-outline-deep-purple:focus, .btn-outline-deep-purple:hover",#512DA8,#6d53ee,mdb.min.css,940
+.btn-indigo,#FFFFFF,#1c1c1c,mdb.min.css,942
+.btn-outline-indigo,#3F51B5,#272f62,mdb.min.css,948
+".btn-outline-indigo.active, .btn-outline-indigo:active, .btn-outline-indigo:active:focus, .btn-outline-indigo:focus, .btn-outline-indigo:hover",#3F51B5,#272f62,mdb.min.css,949
+.btn-blue,#FFFFFF,#1c1c1c,mdb.min.css,951
+.btn-outline-blue,#1976D2,#0E3F6C,mdb.min.css,957
+".btn-outline-blue.active, .btn-outline-blue:active, .btn-outline-blue:active:focus, .btn-outline-blue:focus, .btn-outline-blue:hover",#1976D2,#0E3F6C,mdb.min.css,958
+.btn-light-blue,#FFFFFF,#1c1c1c,mdb.min.css,960
+.btn-outline-light-blue,#82B1FF,#224B91,mdb.min.css,966
+".btn-outline-light-blue.active, .btn-outline-light-blue:active, .btn-outline-light-blue:active:focus, .btn-outline-light-blue:focus, .btn-outline-light-blue:hover",#82B1FF,#224B91,mdb.min.css,967
+.btn-cyan,#FFFFFF,#1c1c1c,mdb.min.css,969
+.btn-outline-cyan,#00BCD4,#008B96,mdb.min.css,975
+".btn-outline-cyan.active, .btn-outline-cyan:active, .btn-outline-cyan:active:focus, .btn-outline-cyan:focus, .btn-outline-cyan:hover",#00BCD4,#008B96,mdb.min.css,976
+.btn-teal,#FFFFFF,#1c1c1c,mdb.min.css,978
+.btn-outline-teal,#00796B,#28B5A7,mdb.min.css,984
+".btn-outline-teal.active, .btn-outline-teal:active, .btn-outline-teal:active:focus, .btn-outline-teal:focus, .btn-outline-teal:hover",#00796B,#28B5A7,mdb.min.css,985
+.btn-green,#FFFFFF,#1c1c1c,mdb.min.css,987
+.btn-outline-green,#388E3C,#1b5e26,mdb.min.css,993
+".btn-outline-green.active, .btn-outline-green:active, .btn-outline-green:active:focus, .btn-outline-green:focus, .btn-outline-green:hover",#388E3C,#1b5e26,mdb.min.css,994
+.btn-light-green,#FFFFFF,#1c1c1c,mdb.min.css,996
+.btn-outline-light-green,#8BC34A,#5a7e31,mdb.min.css,1002
+".btn-outline-light-green.active, .btn-outline-light-green:active, .btn-outline-light-green:active:focus, .btn-outline-light-green:focus, .btn-outline-light-green:hover",#8BC34A,#5a7e31,mdb.min.css,1003
+.btn-lime,#FFFFFF,#1c1c1c,mdb.min.css,1005
+.btn-outline-lime,#AFB42B,#3B3900,mdb.min.css,1011
+".btn-outline-lime.active, .btn-outline-lime:active, .btn-outline-lime:active:focus, .btn-outline-lime:focus, .btn-outline-lime:hover",#AFB42B,#3B3900,mdb.min.css,1012
+.btn-yellow,#FFFFFF,#1c1c1c,mdb.min.css,1014
+.btn-outline-yellow,#FBC02D,#5A4A1E,mdb.min.css,1020
+".btn-outline-yellow.active, .btn-outline-yellow:active, .btn-outline-yellow:active:focus, .btn-outline-yellow:focus, .btn-outline-yellow:hover",#FBC02D,#5A4A1E,mdb.min.css,1021
+.btn-amber,#FFFFFF,#1c1c1c,mdb.min.css,1023
+.btn-outline-amber,#FFA000,#653600,mdb.min.css,1029
+".btn-outline-amber.active, .btn-outline-amber:active, .btn-outline-amber:active:focus, .btn-outline-amber:focus, .btn-outline-amber:hover",#FFA000,#653600,mdb.min.css,1030
+.btn-orange,#FFFFFF,#1c1c1c,mdb.min.css,1032
+.btn-outline-orange,#F57C00,#B16300,mdb.min.css,1038
+".btn-outline-orange.active, .btn-outline-orange:active, .btn-outline-orange:active:focus, .btn-outline-orange:focus, .btn-outline-orange:hover",#F57C00,#B16300,mdb.min.css,1039
+.btn-deep-orange,#FFFFFF,#1c1c1c,mdb.min.css,1041
+.btn-outline-deep-orange,#FF7043,#9B3B21,mdb.min.css,1047
+".btn-outline-deep-orange.active, .btn-outline-deep-orange:active, .btn-outline-deep-orange:active:focus, .btn-outline-deep-orange:focus, .btn-outline-deep-orange:hover",#FF7043,#9B3B21,mdb.min.css,1048
+.btn-brown,#FFFFFF,#1c1c1c,mdb.min.css,1050
+.btn-outline-brown,#795548,#42312b,mdb.min.css,1056
+".btn-outline-brown.active, .btn-outline-brown:active, .btn-outline-brown:active:focus, .btn-outline-brown:focus, .btn-outline-brown:hover",#795548,#42312b,mdb.min.css,1057
+.btn-grey,#FFFFFF,#1c1c1c,mdb.min.css,1059
+.btn-outline-grey,#616161,#1E1E1E,mdb.min.css,1065
+".btn-outline-grey.active, .btn-outline-grey:active, .btn-outline-grey:active:focus, .btn-outline-grey:focus, .btn-outline-grey:hover",#616161,#1E1E1E,mdb.min.css,1066
+.btn-blue-grey,#FFFFFF,#1c1c1c,mdb.min.css,1068
+.btn-outline-blue-grey,#78909C,#3A4B51,mdb.min.css,1074
+".btn-outline-blue-grey.active, .btn-outline-blue-grey:active, .btn-outline-blue-grey:active:focus, .btn-outline-blue-grey:focus, .btn-outline-blue-grey:hover",#78909C,#3A4B51,mdb.min.css,1075
+.btn-dark,#FFFFFF,#1c1c1c,mdb.min.css,1077
+.btn-outline-dark,#212121,#151515,mdb.min.css,1083
+".btn-outline-dark.active, .btn-outline-dark:active, .btn-outline-dark:active:focus, .btn-outline-dark:focus, .btn-outline-dark:hover",#212121,#151515,mdb.min.css,1084
+.btn-light,#000000,#1E1E1E,mdb.min.css,1086
+.btn-outline-light,#E0E0E0,#383838,mdb.min.css,1092
+".btn-outline-light.active, .btn-outline-light:active, .btn-outline-light:active:focus, .btn-outline-light:focus, .btn-outline-light:hover",#E0E0E0,#383838,mdb.min.css,1093
+.btn-white,#000000,#1E1E1E,mdb.min.css,1095
+.btn-outline-white,#FFFFFF,#1c1c1c,mdb.min.css,1100
+".btn-outline-white.active, .btn-outline-white:active, .btn-outline-white:active:focus, .btn-outline-white:focus, .btn-outline-white:hover",#FFFFFF,#1c1c1c,mdb.min.css,1101
+.btn-black,#FFFFFF,#1c1c1c,mdb.min.css,1103
+.btn-outline-black,#000000,#1E1E1E,mdb.min.css,1109
+".btn-outline-black.active, .btn-outline-black:active, .btn-outline-black:active:focus, .btn-outline-black:focus, .btn-outline-black:hover",#000000,#1E1E1E,mdb.min.css,1110
+.btn-gold,#FFFFFF,#1c1c1c,mdb.min.css,1112
+.card .card-text,#747373,#3f3f3f,mdb.min.css,1125
+.card .card-footer.links-light a,#757575,#202020,mdb.min.css,1126
+.card .card-footer.links-light a:hover,#D50000,#9B0000,mdb.min.css,1127
+".dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:focus, .dropdown .dropdown-menu .dropdown-item:hover",#1D1E1F,#dcdcde,mdb.min.css,1129
+".navbar.navbar-dark .navbar-nav .nav-item .nav-link.disabled, .navbar.navbar-dark .navbar-nav .nav-item .nav-link.disabled:hover",#FFFFFF80,#18191B80,mdb.min.css,1138
+".navbar.navbar-light .navbar-nav .nav-item .nav-link.disabled, .navbar.navbar-light .navbar-nav .nav-item .nav-link.disabled:hover",#00000080,#C8C8C8,mdb.min.css,1139
+.navbar .dropdown-menu a,#000000,#1E1E1E,mdb.min.css,1145
+.navbar .dropdown-menu a:hover,#FFFFFF,#1c1c1c,mdb.min.css,1146
+".navbar.navbar-light .breadcrumb .nav-item .nav-link, .navbar.navbar-light .navbar-nav .nav-item .nav-link",#000000,#1E1E1E,mdb.min.css,1149
+".navbar.navbar-light .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover",#000000BF,#FFFFFF90,mdb.min.css,1150
+".navbar.navbar-light .breadcrumb .nav-item.active > .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover, .navbar.navbar-light .navbar-toggler, .navbar.navbar-light form .form-control",#000000,#1E1E1E,mdb.min.css,1151
+.navbar.navbar-light form .form-control::-webkit-input-placeholder,#000000,#1E1E1E,mdb.min.css,1155
+.navbar.navbar-light form .form-control::placeholder,#000000,#1E1E1E,mdb.min.css,1156
+".navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link",#FFFFFF,#1c1c1c,mdb.min.css,1158
+".navbar.navbar-dark .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover",#FFFFFFBF,#1E1E1E,mdb.min.css,1159
+".badge, .navbar.navbar-dark .breadcrumb .nav-item.active > .nav-link:hover, .navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link:hover, .navbar.navbar-dark .navbar-toggler, .navbar.navbar-dark form .form-control, .pagination .active .page-link:hover",#FFFFFF,#1c1c1c,mdb.min.css,1160
+.navbar.navbar-dark form .form-control::-webkit-input-placeholder,#FFFFFF,#1c1c1c,mdb.min.css,1164
+.navbar.navbar-dark form .form-control::placeholder,#FFFFFF,#1c1c1c,mdb.min.css,1165
+.badge-warning,#FFFFFF,#1c1c1c,mdb.min.css,1184
+.modal-dialog .btn .fa,#FFFFFF,#1c1c1c,mdb.min.css,1232
+.modal-dialog.cascading-modal .close,#FFFFFF,#1c1c1c,mdb.min.css,1235
+".modal-dialog.cascading-modal .modal-body, .modal-dialog.cascading-modal .modal-footer",#616161,#1E1E1E,mdb.min.css,1247
+.modal-dialog.modal-notify .heading,#FFFFFF,#1c1c1c,mdb.min.css,1252
+.modal-dialog.modal-notify .modal-body,#616161,#1E1E1E,mdb.min.css,1255
+.modal-dialog.modal-notify.modal-info .fa,#5394FF,#3B6CD6,mdb.min.css,1258
+.modal-dialog.modal-notify.modal-info .btn-primary-modal,#FFFFFF,#1c1c1c,mdb.min.css,1259
+.modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal,#5394FF,#3B6CD6,mdb.min.css,1265
+".modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal.active, .modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal:active, .modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal:active:focus, .modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal:focus, .modal-dialog.modal-notify.modal-info .btn-outline-secondary-modal:hover",#5394FF,#3B6CD6,mdb.min.css,1266
+.modal-dialog.modal-notify.modal-warning .fa,#FF8E38,#B65D29,mdb.min.css,1269
+.modal-dialog.modal-notify.modal-warning .btn-primary-modal,#FFFFFF,#1c1c1c,mdb.min.css,1270
+.modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal,#FF8E38,#B65D29,mdb.min.css,1276
+".modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal.active, .modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal:active, .modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal:active:focus, .modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal:focus, .modal-dialog.modal-notify.modal-warning .btn-outline-secondary-modal:hover",#FF8E38,#B65D29,mdb.min.css,1277
+.modal-dialog.modal-notify.modal-success .fa,#01D36B,#1F8B4C,mdb.min.css,1280
+.modal-dialog.modal-notify.modal-success .btn-primary-modal,#FFFFFF,#1c1c1c,mdb.min.css,1281
+.modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal,#01D36B,#1F8B4C,mdb.min.css,1287
+".modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal.active, .modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal:active, .modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal:active:focus, .modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal:focus, .modal-dialog.modal-notify.modal-success .btn-outline-secondary-modal:hover",#01D36B,#1F8B4C,mdb.min.css,1288
+.modal-dialog.modal-notify.modal-danger .fa,#FF4B4B,#B13535,mdb.min.css,1291
+.modal-dialog.modal-notify.modal-danger .btn-primary-modal,#FFFFFF,#1c1c1c,mdb.min.css,1292
+.modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal,#FF4B4B,#B13535,mdb.min.css,1298
+".modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal.active, .modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal:active, .modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal:active:focus, .modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal:focus, .modal-dialog.modal-notify.modal-danger .btn-outline-secondary-modal:hover",#FF4B4B,#B13535,mdb.min.css,1299
+.accordion .card .card-body,#626262,#343434,mdb.min.css,1321
+"input[type=""date""]:disabled, input[type=""date""][readonly=""readonly""], input[type=""datetime-local""]:disabled, input[type=""datetime-local""][readonly=""readonly""], input[type=""email""]:disabled, input[type=""email""][readonly=""readonly""], input[type=""number""]:disabled, input[type=""number""][readonly=""readonly""], input[type=""password""]:disabled, input[type=""password""][readonly=""readonly""], input[type=""search-md""]:disabled, input[type=""search-md""][readonly=""readonly""], input[type=""search""]:disabled, input[type=""search""][readonly=""readonly""], input[type=""tel""]:disabled, input[type=""tel""][readonly=""readonly""], input[type=""text""]:disabled, input[type=""text""][readonly=""readonly""], input[type=""time""]:disabled, input[type=""time""][readonly=""readonly""], input[type=""url""]:disabled, input[type=""url""][readonly=""readonly""], textarea.md-textarea:disabled, textarea.md-textarea[readonly=""readonly""]",#00000075,#121212,mdb.min.css,1420
+"input[type=""date""]:disabled + label, input[type=""date""][readonly=""readonly""] + label, input[type=""datetime-local""]:disabled + label, input[type=""datetime-local""][readonly=""readonly""] + label, input[type=""email""]:disabled + label, input[type=""email""][readonly=""readonly""] + label, input[type=""number""]:disabled + label, input[type=""number""][readonly=""readonly""] + label, input[type=""password""]:disabled + label, input[type=""password""][readonly=""readonly""] + label, input[type=""search-md""]:disabled + label, input[type=""search-md""][readonly=""readonly""] + label, input[type=""search""]:disabled + label, input[type=""search""][readonly=""readonly""] + label, input[type=""tel""]:disabled + label, input[type=""tel""][readonly=""readonly""] + label, input[type=""text""]:disabled + label, input[type=""text""][readonly=""readonly""] + label, input[type=""time""]:disabled + label, input[type=""time""][readonly=""readonly""] + label, input[type=""url""]:disabled + label, input[type=""url""][readonly=""readonly""] + label, textarea.md-textarea:disabled + label, textarea.md-textarea[readonly=""readonly""] + label",#00000075,#121212,mdb.min.css,1421
+"input[type=""date""]:focus:not([readonly]) + label, input[type=""datetime-local""]:focus:not([readonly]) + label, input[type=""email""]:focus:not([readonly]) + label, input[type=""number""]:focus:not([readonly]) + label, input[type=""password""]:focus:not([readonly]) + label, input[type=""search-md""]:focus:not([readonly]) + label, input[type=""search""]:focus:not([readonly]) + label, input[type=""tel""]:focus:not([readonly]) + label, input[type=""text""]:focus:not([readonly]) + label, input[type=""time""]:focus:not([readonly]) + label, input[type=""url""]:focus:not([readonly]) + label, textarea.md-textarea:focus:not([readonly]) + label",#4285F4,#2155c3,mdb.min.css,1423
+"input[type=""date""].valid + label::after, input[type=""date""]:focus.valid + label::after, input[type=""datetime-local""].valid + label::after, input[type=""datetime-local""]:focus.valid + label::after, input[type=""email""].valid + label::after, input[type=""email""]:focus.valid + label::after, input[type=""number""].valid + label::after, input[type=""number""]:focus.valid + label::after, input[type=""password""].valid + label::after, input[type=""password""]:focus.valid + label::after, input[type=""search-md""].valid + label::after, input[type=""search-md""]:focus.valid + label::after, input[type=""search""].valid + label::after, input[type=""search""]:focus.valid + label::after, input[type=""tel""].valid + label::after, input[type=""tel""]:focus.valid + label::after, input[type=""text""].valid + label::after, input[type=""text""]:focus.valid + label::after, input[type=""time""].valid + label::after, input[type=""time""]:focus.valid + label::after, input[type=""url""].valid + label::after, input[type=""url""]:focus.valid + label::after, textarea.md-textarea.valid + label::after, textarea.md-textarea:focus.valid + label::after",#00C851,#3BA073,mdb.min.css,1425
+"input[type=""date""].invalid + label::after, input[type=""date""]:focus.invalid + label::after, input[type=""datetime-local""].invalid + label::after, input[type=""datetime-local""]:focus.invalid + label::after, input[type=""email""].invalid + label::after, input[type=""email""]:focus.invalid + label::after, input[type=""number""].invalid + label::after, input[type=""number""]:focus.invalid + label::after, input[type=""password""].invalid + label::after, input[type=""password""]:focus.invalid + label::after, input[type=""search-md""].invalid + label::after, input[type=""search-md""]:focus.invalid + label::after, input[type=""search""].invalid + label::after, input[type=""search""]:focus.invalid + label::after, input[type=""tel""].invalid + label::after, input[type=""tel""]:focus.invalid + label::after, input[type=""text""].invalid + label::after, input[type=""text""]:focus.invalid + label::after, input[type=""time""].invalid + label::after, input[type=""time""]:focus.invalid + label::after, input[type=""url""].invalid + label::after, input[type=""url""]:focus.invalid + label::after, textarea.md-textarea.invalid + label::after, textarea.md-textarea:focus.invalid + label::after",#F44336,#B71C1C,mdb.min.css,1427
+.md-form label,#757575,#202020,mdb.min.css,1436
+.md-form .prefix.active,#4285F4,#2155c3,mdb.min.css,1441
+.md-form.input-group::-webkit-input-placeholder,#999999,#1C1C1C,mdb.min.css,1449
+.md-form.input-group::placeholder,#999999,#1C1C1C,mdb.min.css,1450
+footer.page-footer,#FFFFFF,#1c1c1c,mdb.min.css,1461
+footer.page-footer .footer-copyright,#FFFFFF99,#0F0F0FCC,mdb.min.css,1463
+footer.page-footer a,#FFFFFF,#1c1c1c,mdb.min.css,1464
+table.table a,#212529,#C5C5C5,mdb.min.css,1478
+.navbar-nav > .nav-item > .nav-link,#E1E6E8,#1C2022,style.css,3
+#queuesContainer .queue:hover,#0897DC,#0A5489,style.css,29
+#header > div.title-text,#424242,#181818,style.css,37
+#tblBody tbody tr.is-selected,#408ECB,#19346E,style.css,77
+#tblBody > tbody > tr:hover,#408ECB,#19346E,style.css,79
+.div-paging > a,#444444,#C5C5C5,style.css,103
+.div-paging > a:hover,#3F51B5,#272f62,style.css,104
+.tblUnit > thead > tr > th,#424242,#181818,style.css,132
+.chat-title,#2196F3,#0D47A1,style.css,136
+.chat-title > .chat-tab.active,#424242,#181818,style.css,138
+.get-attachment:hover > div,#50B0F5,#2D62A8,style.css,153
+.disabled-field,#8C8C8D,#2C2C2C,style.css,179
+.form-control:focus,#495057,#bcbfc2,style.css,180
+ul.pop-list > li > a,#424242,#181818,style.css,182
+.tblGroup > thead > tr > th > a,#4285F4,#2155c3,style.css,198
+.tr-customer:hover,#D4A017,#655200,style.css,201
+.ui-widget-content,#333333,#d9d9d9,jquery-ui.css,165
+.ui-widget-content a,#333333,#d9d9d9,jquery-ui.css,166
+.ui-widget-header,#333333,#d9d9d9,jquery-ui.css,167
+.ui-widget-header a,#333333,#d9d9d9,jquery-ui.css,168
+".ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active",#454545,#1F1F1F,jquery-ui.css,169
+".ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited, a.ui-button, a:link.ui-button, a:visited.ui-button, .ui-button",#454545,#1F1F1F,jquery-ui.css,170
+".ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-button:hover, .ui-button:focus",#2B2B2B,#0F0F0F,jquery-ui.css,171
+".ui-state-hover a, .ui-state-hover a:hover, .ui-state-hover a:link, .ui-state-hover a:visited, .ui-state-focus a, .ui-state-focus a:hover, .ui-state-focus a:link, .ui-state-focus a:visited, a.ui-button:hover, a.ui-button:focus",#2B2B2B,#0F0F0F,jquery-ui.css,172
+".ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover",#FFFFFF,#1c1c1c,jquery-ui.css,174
+".ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited",#FFFFFF,#1c1c1c,jquery-ui.css,176
+".ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight",#777620,#3C3C10,jquery-ui.css,177
+".ui-state-highlight a, .ui-widget-content .ui-state-highlight a, .ui-widget-header .ui-state-highlight a",#777620,#3C3C10,jquery-ui.css,178
+".ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error",#5F3F3F,#2B1B1B,jquery-ui.css,179
+".ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a",#5F3F3F,#2B1B1B,jquery-ui.css,180
+".ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text",#5F3F3F,#2B1B1B,jquery-ui.css,181
+"[id*=""au-header_""] th::after",#777777,#212121,inline,11

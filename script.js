@@ -37,14 +37,14 @@ function renderTable() {
         tr.className = index % 2 === 0 ? 'bg-white' : 'bg-gray-50';
         tr.innerHTML = `
             <td class="p-3 w-5/12 truncate-cell text-gray-800" title="${escapeHtml(row.selector)}">${escapeHtml(row.selector)}</td>
-            <td class="p-3 w-2/12 truncate-cell text-gray-800" title="${escapeHtml(row.color)}">
-                <span class="color-preview mr-2 rounded" style="background-color: ${escapeHtml(row.color)};"></span>${escapeHtml(row.color)}
+            <td class="p-3 w-2/12 truncate-cell color-cell" title="${escapeHtml(row.color)}" style="background-color: ${escapeHtml(row.color)};">
+                <span class="centered-text" style="color: ${getContrastColor(row.color)};">${escapeHtml(row.color)}</span>
             </td>
-            <td class="p-3 w-2/12 truncate-cell text-gray-800" title="${escapeHtml(row.darkmode)}">
-                <span class="color-preview mr-2 rounded" style="background-color: ${escapeHtml(row.darkmode)};"></span>${escapeHtml(row.darkmode)}
+            <td class="p-3 w-2/12 truncate-cell color-cell" title="${escapeHtml(row.darkmode)}" style="background-color: ${escapeHtml(row.darkmode)};">
+                <span class="centered-text" style="color: ${getContrastColor(row.darkmode)};">${escapeHtml(row.darkmode)}</span>
             </td>
-            <td class="p-3 w-2/12 truncate-cell text-gray-800" title="${escapeHtml(row.stylesheet)}">${escapeHtml(row.stylesheet)}</td>
-            <td class="p-3 w-1/12 truncate-cell text-gray-800" title="${escapeHtml(row.line.toString())}">${escapeHtml(row.line.toString())}</td>
+            <td class="p-3 w-2/12 truncate-cell text-gray-800 hidden lg:table-cell" title="${escapeHtml(row.stylesheet)}">${escapeHtml(row.stylesheet)}</td>
+            <td class="p-3 w-1/12 truncate-cell text-gray-800 hidden lg:table-cell" title="${escapeHtml(row.line.toString())}">${escapeHtml(row.line.toString())}</td>
         `;
         tableBody.appendChild(tr);
     });
@@ -52,6 +52,22 @@ function renderTable() {
     updateSortIndicators();
     adjustTableHeight();
     toggleClearButton();
+}
+
+function getContrastColor(hexColor) {
+    // If the color is invalid, return black
+    if (!hexColor || hexColor.charAt(0) !== '#') return '#000000';
+
+    // Convert hex to RGB
+    const r = parseInt(hexColor.substr(1, 2), 16);
+    const g = parseInt(hexColor.substr(3, 2), 16);
+    const b = parseInt(hexColor.substr(5, 2), 16);
+
+    // Calculate luminance
+    const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+
+    // Return black for light colors, white for dark colors
+    return luminance > 0.5 ? '#000000' : '#FFFFFF';
 }
 
 function escapeHtml(unsafe) {
@@ -99,7 +115,7 @@ function updateSortIndicators() {
         } else {
             indicator.setAttribute('data-lucide', 'chevron-up');
         }
-        indicator.classList.toggle('text-blue-500', th.dataset.sort === sortColumn);
+        indicator.classList.toggle('text-black', th.dataset.sort === sortColumn);
     });
     lucide.createIcons();  // Refresh Lucide icons
 }

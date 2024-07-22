@@ -31,17 +31,18 @@ body {
     z-index: 10;
 }
 
-.color-preview {
-    width: 24px;
-    height: 24px;
-    display: inline-block;
-    vertical-align: middle;
-    border: 1px solid #ccc;
-    transition: transform 0.3s ease;
+.color-cell {
+    position: relative;
+    text-align: center;
 }
 
-.color-preview:hover {
-    transform: scale(1.5);
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-weight: normal;
 }
 
 #clearSearch {
@@ -67,6 +68,8 @@ body {
     background-color: #f9fafb;
 }
 
+/** 
 #colorTable tbody tr:hover {
     background-color: #f3f4f6;
 }
+**/
